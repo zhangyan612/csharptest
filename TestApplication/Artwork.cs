@@ -6,5 +6,11 @@
         {
             //this method is going to create an artwork
         }
+
+        public void test ()
+        {
+
+        }
+
     }
 }
