@@ -22,5 +22,10 @@ namespace TestApplication
             Console.WriteLine("Feature method");
         }
 
+
+        public void bored()
+        {
+            Console.WriteLine("whatever");
+        }
     }
 }
