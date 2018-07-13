@@ -1,4 +1,6 @@
-﻿namespace TestApplication
+﻿using System;
+
+namespace TestApplication
 {
     internal class Artwork
     {
@@ -9,7 +11,9 @@
 
         public void test ()
         {
-
+            // this is going to be my work
+            string name = "Diana";
+            Console.WriteLine(name);
         }
 
     }
