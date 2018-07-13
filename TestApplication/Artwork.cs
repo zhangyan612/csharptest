@@ -16,5 +16,16 @@ namespace TestApplication
             Console.WriteLine(name);
         }
 
+
+        public void featureBranchMethod()
+        {
+            Console.WriteLine("Feature method");
+        }
+
+
+        public void bored()
+        {
+            Console.WriteLine("whatever");
+        }
     }
 }
