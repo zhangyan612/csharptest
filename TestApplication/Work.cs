@@ -10,9 +10,9 @@ namespace TestApplication
     {
         public void run()
         {
-            Console.WriteLine("lost and found");
-            string lost = "woods";
-            Console.WriteLine(lost);
+            Console.WriteLine("testing");
+            string lost = "test";
+            Console.WriteLine(testing);
         }
     }
 }
