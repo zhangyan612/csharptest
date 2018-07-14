@@ -12,7 +12,7 @@ namespace TestApplication
         {
             Console.WriteLine("testing");
             string lost = "test";
-            Console.WriteLine(testing);
+            Console.WriteLine(lost);
         }
     }
 }
