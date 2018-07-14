@@ -10,7 +10,7 @@ namespace TestApplication
     {
         public void run()
         {
-
+            Console.WriteLine("Diana");
         }
     }
 }
